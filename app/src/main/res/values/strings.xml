@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat App V2</string>
+    <string name="MessageHint">Type your message...</string>
+    <string name="WelcomeHeading">Welcome,</string>
+    <string name="Subheading">Let\'s Chat!</string>
+    <string name="Go">Go</string>
+    <string name="Send">Send</string>
+</resources>
